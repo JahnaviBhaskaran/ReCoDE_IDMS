@@ -30,7 +30,7 @@ SEIR <- function(time, current_state, params){
 
 R0 = 9.5
 
-# Sigma, the rate of progression from incubation to infectious is tehrefore 1/5.1 days 
+# Sigma, the rate of progression from incubation to infectious is therefore 1/5.1 days 
 sigma = 1 / 5.1
 
 # gamma, the recovery rate is 1/2.1 days 
