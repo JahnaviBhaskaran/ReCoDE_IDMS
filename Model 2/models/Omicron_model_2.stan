@@ -49,7 +49,7 @@
 
 
 
-// initial conitions 
+// initial conditions 
   S[1] = n_pop -n_recov - I0[1]; 
   for(i in 1:n_var) E[1,i] = 0;
   for(i in 1:n_var) I[1,i] = I0[i];
