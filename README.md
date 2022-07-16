@@ -22,7 +22,7 @@ Beneficial:
 
 ### Project structure 
 
-The project is split into XX sections, with each section introducing a progressibely more comlex infectious disease model. Within each section there are the following modules: 
+The project is split into XX sections, with each section introducing a progressibely more complex infectious disease model. Within each section there are the following modules: 
 
 - Designing an infectious disease model
 - Cleaning data in R
