@@ -38,7 +38,7 @@
   real lambda_fit[n_data];
   
 
-// initial conitions 
+// initial conditions 
   S[1] = n_pop -n_recov; 
   E[1] = 0;
   I[1] = I0;
